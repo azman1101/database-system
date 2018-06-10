@@ -2,4 +2,4 @@
 
 ### Database to store company's data
 
-File = code for create & insert table
+File.sql = code for create & insert table
